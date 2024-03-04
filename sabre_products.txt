@@ -1,0 +1,258 @@
+1. 3RD PARTY GROUND HANDLING CHECK-IN & E-TICKETING: Utilize other carriers for check-in, gates and boarding
+Execute critical check-in and e-ticketing functions from virtually anywhere, even from airports where you don’t have your own systems.. Reduce costs while building partnerships with other carriers and ground-handling companies.
+
+2. AGENCY AIR SHOPPING: Find the best airline offers
+Deliver a modern-day retailing experience providing relevant offers personalized for traveler needs.
+
+3. AGENCY CORE SERVICE: Maximize reservation management with a complete set of capabilities
+Effectively create and manage high numbers of reservations daily with our comprehensive assortment of tools.
+
+4. AGENCY DATA & ANALYTICS: Automate PNR Data
+Mine business intelligence for profitable data, saving agency time and eliminating human error.
+
+5. AGENCY MANAGED COMMISSION: Automate the commission collection process
+Automatically calculate and capture the highest applicable commission on every itinerary.
+
+6. AGENCY RETAILER: Prioritize your high-profit content
+Focus on selling smarter by making the most of high-profit content.
+
+7. AIRLINE ANCILLARIES: Deliver tailored ancillary pricing
+Drive customer loyalty and make the most of every upsell opportunity.
+
+8. AIRLINE AVAILABILITY: Access real-time airline schedules
+Eliminate out-of-date information and give travel agents and passengers access to the accurate flight availability they need.
+
+9. AIRLINE CORE SERVICES: Efficiently manage your passenger reservations
+Deliver maximum efficiency with personalized tools that create and manage all reservations in your system.
+
+10. AIRLINE SHOPPING: Accommodate savvy shoppers
+Engage technology powered, intelligent retailing strategies, that effectively reach today’s savvy shopper across channels.
+
+11. AIRPORT CHECK-IN: Automate airport operations and increase productivity
+Enhance customer experience with comprehensive and streamlined check-in and boarding solutions.
+
+12. AUTOMATED EXCHANGE: Automate ticket exchanges for enhanced productivity
+Buy back lost agent time wasted on time-consuming ticket exchanges by automating the process.
+
+13. AUTOMATED EXCHANGE AND REFUNDS: Automate service adjustments and keep up with your passengers
+Eliminate complex manual agent inputand automate ticket exchanges and refunds.
+
+14. AUTOMATED REFUNDS: Simplify ticket refunds
+Increase agent productivity by automating the refund process.
+
+15. AUTOMATION HUB: Automate routine travel agency tasks
+Free up employee time by automating repetitive tasks.
+
+16. AUTOMATION SOLUTIONS: Automate your post-booking admin
+Reduce the potential for errors and free up employees for more critical business tasks by utilizing apps instead of agents.
+
+17. BOOKING ENGINE: Power up your hotel’s booking engine
+Drive direct bookings for your property with our modern retailing and eCommerce solution.
+
+18. BRANDED FARES: Omni-channel brand consistency
+Shop, book and fulfill unique airline brands with bundled products and services designed to appeal to specific travelers.
+
+19. CARD SERVICES: Take charge of credit card payments
+Gain control over credit card transaction service fees with our secure, compliant payment-acceptance and settlement platform.
+
+20. CARGO REVENUE MANAGER: Optimize cargo capacity
+Effectively evaluate cargo reservation requests. Our software factors in all variables, streamlining the process and keeping it human-error-free.
+
+21. CARS: Access global car rental offers
+Meet traveler demand for car rentals, wherever they go in the world, with our powerful agency tool.
+
+22. CENTRAL RESERVATION SYSTEM: Streamline rate management
+Make your life easier with SynXis Central Reservation System, a comprehensive inventory and reservation management solution.
+
+23. CHANNEL CONNECT: Simplify OTA distribution
+Reach 600 global and regional OTAs with a streamlined channel activation interface.
+
+24. CODESHARE: Broaden your reach
+Introduce your brand into new markets and develop your network with our low-cost, low-risk solution.
+
+25. CODESHARE MANAGER: Make the most of Codeshare partnerships
+Maximise codeshare connections across networks to increase airline revenue and elevate the passenger experience.
+
+26. CONSORTIA: Boost business travel revenue
+Enable independent hotels and groups to increase their exposure to leading TMC and Consortia partnerships.
+
+27. CONTENT SERVICES FOR LODGING: Simplify lodging sourcing
+Empower travel agents to efficiently find preferred lodging accommodations at competitive rates by consolidating multiple sources in one place.
+
+28. CUSTOM MESSAGING: Keep your customers up to speed on the go
+Provide travelers with tailored, up-to-the-minute trip information accessible across different channels.
+
+29. CUSTOMER DATA HUB: Consolidate customer data
+Create an omni-channel customer experience with perfectly timed, personalized offers, using key customer insights.
+
+30. CUSTOMER EXPERIENCE MANAGER: CX that stands out
+Deliver on brand promise, build loyalty, and get the competitive edge by providing customers with a personalized, premium experience.
+
+31. CUSTOMER INSIGHT: Make travel personal
+Gain essential traveler insight to build individualized travel experiences and keep traveler data secure.
+
+32. DIGITAL CONNECT APIS: Transform your travel ecosystem
+Stand out in a sea of websites by delivering a digital retailing experience personalized for your customers.
+
+33. DIGITAL EXPERIENCE: Embrace next-generation airline e-commerce
+Deliver a distinctive brand experience across the entire customer journey and create a lasting impression across all your digital touchpoints.
+
+34. DIGITAL MARKETING: Market your property
+Tap into a team of experts to drive metasearch campaigns and digital marketing for your property.
+
+35. DYNAMIC AVAILABILITY: Optimize pricing & availability at scale
+Quickly evaluate and respond to market conditions with optimized inventory adjustments to maximize revenue.
+
+36. DYNAMIC RETAILER: Increase per-traveler revenue
+Optimize new and existing revenue opportunities through multi-point, personalized ancillary offers.
+
+37. FARES MANAGER AND FARES OPTIMIZER: Automate intelligent airline pricing
+Stay ahead of your competitors’ fare pricing with end-to-end automation that improves revenue opportunities by reducing uncompetitive published fares.
+
+38. FLEET MANAGER: Match aircraft capacity with demand
+Make each flight count for profitability by optimizing fleet assignment. No more over or underfilling aircrafts, hit the right capacity every time.
+
+39. GETTHERE: Manage the complexities of corporate travel with ease
+Deliver an unbeatable online booking experience, control costs and drive compliance for corporate travel programs globally.
+
+40. GROUP OPTIMIZER: Manage group bookings with ease
+Oversee group bookings with greater efficiency and effectively evaluate economic feasibility to secure the most appropriate fares each time.
+
+41. HOTEL APIS: Integrate with the SynXis platform
+Quickly link our existing solutions and build connections to support your software.
+
+42. INTERACT: Elevate your airport check-in experience
+Empower your customer-facing employees to deliver uncompromised service and deliver seamless airport and reservations experience to travelers.
+
+43. INVENTORY: Maximize profitability with strategic seat inventory management
+Equip analysts to make the most out of the inventory and optimize revenue through data visualization, streamlined workflows, and contextual navigation.
+
+44. IROPS REACCOMMODATION: Comprehensively resolve service disruptions
+Minimize the impact of service disruptions on your customers with resolving problems quickly and efficiently and reducing manual agent activities.
+
+45. IX APPS: Efficiently develop targeted software solutions for airlines
+Reduce operational costs and increase revenue with IX Apps that let you quickly create automated solutions.
+
+46. KIOSK CHECK-IN: Take care of busy travelers with self-service
+Empower your passengers with the ability to print boarding passes and bag tags themselves without the need to go through a check-in agent.
+
+47. LOAD MANAGER: Achieve perfect balance in load planning
+Smartly manage the placement of each aircraft’s load to reach equilibrium, increase operational efficiency and save manpower.
+
+48. LOYALTY: Reward customer loyalty
+Generate up to 20% of your company’s total revenue and reduce new customer acquisition costs, by effectively rewarding existing customers.
+
+49. MARKET INTELLIGENCE: Deliver smarter retailing and sales analysis
+Strengthen your strategic planning through predictive intelligence powered by Sabre Travel AI™ – in partnership with Google.
+
+50. NUVOLA: Elevate on-property operations
+Connect teams, tasks, and guests with Nuvola’s task management and guest engagement software.
+
+51. OFFLINE DCS LITE: Stay online when systems are down
+Maintain operations and avoid passenger frustration and costly agent errors in the check-in process during system outages.
+
+52. PAYMENTS: Ensure you receive all your due funds
+Ensure all funds due are received and be protected against fraudulent charges with our fully compliant and integrated airline and agency payment solution.
+
+53. PRISM SALES INFORMATION SYSTEM: Identify high-yield business customers
+Pursue your most valuable customers with up-to-the-minute, reliable data and sales insights, to make the most of global corporate sales.
+
+54. PROFIT MANAGER: Accurate forecasting simplified
+Accurately forecast passenger demand and empower analysts to make successful strategic decisions with our ultimate tool for managing profit.
+
+55. PROPERTY HUB: Upgrade your PMS
+Drive efficiency and simplify property management for limited-service hotels.
+
+56. RAIL: Fast-track rail travel
+Provide agencies a complete solution for shopping, booking, and fulfilling rail trips.
+
+57. RETAIL STUDIO: Drive total revenue
+Sell anything at the time of booking and expand revenue streams by creating choices for your guests that go beyond the room.
+
+58. REVENUE INTEGRITY: Identify and remove fraudulent bookings in real time
+Spot fraudulent bookings in real time, restore seats to inventory and prevent revenue loss with our scalable solution that delivers strong ROI in months.
+
+59. REVENUE OPTIMIZER: Revolutionize your revenue management
+Give your airline a comprehensive view and set of insights that apply far beyond seat inventory, to improve forecast accuracy and optimize demand-based pricing.
+
+60. SABRE AIR PRICE IQ™: Break free from static airfare pricing
+Increase pricing agility and precision with dynamic pricing of airfare based on traveler and marketplace context.
+
+61. SABRE ANCILLARY IQ™: Deliver optimized ancillary offers
+Optimize ancillary offers and provide more traveler choice with dynamic pricing of individual and bundled ancillaries.
+
+62. SABRE APIS: Develop travel apps with ease
+Spend less time learning about back-end technology and more time creating flexible solutions that can be deployed globally.
+
+63. SABRE DIGITAL WORKSPACE™: Free up your front-line employees to focus on the traveler experience
+Personalize and elevate the overall customer experience by simplifying agent experience with our mobile-first design, so they can focus on better assisting travelers.
+
+64. SABRE INTELLIGENCE EXCHANGE®: Sense and respond to insights across the airline enterprise
+Discover profitable insights and gain a better understanding of market trends.
+
+65. SABRE PROFILES™: Deliver superior service
+Empower consultants to make the most of customer data and take your customer experience to the next level with Sabre Profiles™.
+
+66. SABRE RED 360: Make the most of a full spectrum of bookable content
+Facilitate a 360 view of travel booking via an intuitive and customizable workspace with rich imagery and descriptive detail.
+
+67. SABRE RED APPS: Streamline travel agency operations
+Modernize operations with intuitive apps that integrate seamlessly into Sabre Red 360 and support travel agency workflows.
+
+68. SABRE TRAVELER COMMUNICATION: Streamline how customers receive important travel information
+Provide travelers to the latest trip information, travel documents and the essential information needed to manage the travel they’ve purchased.
+
+69. SABRE UPGRADE IQ™: Utilize empty seats in premium cabins
+Provide travelers the opportunity to bid for an upgrade at any pre-travel stage to generate incremental upgrade revenue.
+
+70. SAFEPOINT: Effectively manage business travel safety
+Better service corporate travelers during their travel and keep them safe and secure with proactive monitoring and crisis alerts.
+
+71. SCHEDULE MANAGER: Deliver perfectly planned schedules
+Effectively manage your airline’s operations and identify areas of underutilization, to boost revenue and bring competitive advantage.
+
+72. SEAMLESS CODESHARE: Increase codeshare visibility to maximize passenger revenue
+Work together with codeshare partners to prevent leakage and maximize sales by jointly accessing real time availability information.
+
+73. SELF-SERVICE REACCOMMODATION: Empower customers to rebook themselves
+Enhance customer satisfaction and decrease manual agent processing by offering travellers the ability to manage their own reaccommodations on the web or a mobile device during a disruption.
+
+74. SLOT MANAGER: Secure and expand your slot portfolio
+Monitor existing slots for maximum utilization and identify upcoming slots needed for future schedules.
+
+75. TICKETEXPRESS: Make ticketing a breeze for travel agents
+Automate and validate pre-defined agency guidelines at pricing and ticketing, resulting in greater accuracy and scale.
+
+76. TOURS: Merchandise pre-packaged holidays
+Enable leisure travel agents to use their expertise to shop, compare, and book holidays – all in one place.
+
+77. TRAVEL BANK: Increase revenue while building customer loyalty
+Set up secure electronic fund accounts for business and leisure travel, enabling alternative payment options and encouraging future bookings.
+
+78. TRAVEL DATA: Understand your customer data to maximize ROI
+Respond to customer insights to enhance the traveler experience and increase revenue across each passenger journey.
+
+79. TRIPCASE: Empower business travelers to book and manage trips themselves
+Enhance business traveller experience and put the power in their hands with our mobile-first self-service solution to manage and organize travel.
+
+80. VIRTUAL PAYMENTS: Simplify and add value to everyday transactions
+Virtual Payments is an automated and integrated payments gateway designed to simplify and add value to the transactions that Travel Agencies and Corporations do every day. This Virtual Payments solution provides access through one unique connection to 70+ banking partners, 100+ currencies in 150+ countries.
+
+81. VOICE AGENT: Drive call center conversations
+Empower call center agents to confidently service your hotel guests.
+
+
+Airport Check-in enables airlines to provide fast, reliable and comprehensive check-in and boarding options 
+that expedite and enhance each passenger’s journey. At the same time, it streamlines the operational efficiency 
+of airline airport agents.
+
+Airline Shopping products drive opportunities to increase conversion through advanced search capabilities. 
+Along the way, it enables airlines to upsell to higher brands, ease point redemption and provide post-ticketing,
+self-service capabilities to exchange tickets.
+
+Agency Air Shopping products help travel agencies source the best airline offers through the planning, 
+booking and servicing stages of travel.
+
+Sabre Profiles: This groundbreaking profile management system makes it convenient to store, share and analyze customer data, 
+allowing travel consultants to deliver a superior level of service.
+

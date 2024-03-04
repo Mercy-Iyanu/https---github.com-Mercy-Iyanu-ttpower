@@ -1,0 +1,41 @@
+
+
+
+Sabre Central URL: central.sabre.com
+
+Sabre 
+SI*
+
+EPR - Employee Profile Network
+
+Asterik on sabre means TO DISPLAY
+
+
+Signing in:
+ON WEB 
+SI9013 means signing in to ONE WORKAREA
+SI*9013 means signing in to ALL THE WORKAREAS
+
+SO means signing out of CURRENT WORKAREAS
+
+How to change or switch to different workarea: "Delete/Change" key + the workaea Alphabet(e.g. A,B,C,D,E,F)
+
+Profile
+
+SSR - Special Service Request
+
+To clear the screen: CRTL+Backspace
+
+Identification Code Keys (ICK)
+Ignore (means TO START ALL OVER AGAIN)
+Change or Delete (The key after key P) - To modify change in Sabre PNRs
+Cross of Lorraine (The key before Enter Key) - This is used to combine related formats
+Dash - Used for name field
+Asterik - Used to display, indicates that the system accepts or confirms the command
+
+Two ways to work on the Interface:
+- Classic (Manual)
+- Graphical (Point and Click)
+
+
+

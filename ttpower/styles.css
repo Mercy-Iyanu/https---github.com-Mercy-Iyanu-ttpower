@@ -33,3 +33,20 @@
     margin-left: 1em;
     padding: 5em;
 }
+
+.dubai {
+    background-image: url(./images/Dubai.jpg);
+    height: 20vh;
+    background-size: cover;
+    color: white;
+    padding: 3em;
+}
+
+.lond {
+    background-image: url(./images/London\ \(1\).jpg);
+    height: 20vh;
+    background-size: cover;
+    color: white;
+    margin-left: 1em;
+    padding: 3em;
+}
